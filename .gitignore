@@ -1,0 +1,8 @@
+# Mac files
+.DS_Store
+
+# Ignore private test files
+private/
+
+#Ignore jupyter notebook files
+.ipynb_checkpoints/
